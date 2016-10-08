@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/add.png</file>
+        <file>images/add_hover.png</file>
+        <file>images/add_press.png</file>
+        <file>images/arrow_down.png</file>
+        <file>images/arrow_up.png</file>
+        <file>images/scrollbar.png</file>
+        <file>images/scrollbar_bg.png</file>
+        <file>images/bird.ico</file>
+        <file>images/go.png</file>
+        <file>images/go_hover.png</file>
+        <file>images/go_press.png</file>
+        <file>images/profit.png</file>
+        <file>images/in.png</file>
+        <file>images/out.png</file>
+        <file>images/pay.png</file>
+        <file>images/doctor.png</file>
+        <file>images/patient.png</file>
+        <file>images/series.png</file>
+        <file>images/account.png</file>
+        <file>images/login.png</file>
+        <file>images/login_hover.png</file>
+        <file>images/login_press.png</file>
+        <file>images/password.png</file>
+    </qresource>
+</RCC>
